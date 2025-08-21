@@ -10,7 +10,7 @@ Below is a list of projects to tackle. Each project has a description and a link
 
 ### 1. Server Performance Analysis Script
 
-- [x] **[Server Performance Script](./server-stats.sh)**
+- [x] **[Server Performance Script](./server-performance-stats/server-stats.sh)**
   - **Description:** A cross-platform shell script that analyzes and displays key server performance statistics, such as CPU usage, memory consumption, disk space, and top running processes. It's designed to work on both Linux and macOS environments.
 
 ---
