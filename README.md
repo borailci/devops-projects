@@ -27,3 +27,13 @@ Below is a list of projects to tackle. Each project has a description and a link
   - **Project Link:** [https://roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
 
 ---
+
+### 3. Nginx Log Analyzer
+
+- [x] **[Nginx Log Analyzer](./nginx-log-analyser/analyze_logs.sh)**
+
+  - **Description:** A comprehensive shell script that analyzes Nginx access logs and provides detailed statistics including top IP addresses, most requested paths, response status codes, and user agents. Features colorized output, multiple analysis methods (awk, grep/sed), and additional metrics like error rates and request distribution.
+
+  - **Project Link:** [https://roadmap.sh/projects/nginx-log-analyser](https://roadmap.sh/projects/nginx-log-analyser)
+
+---
