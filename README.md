@@ -37,3 +37,13 @@ Below is a list of projects to tackle. Each project has a description and a link
   - **Project Link:** [https://roadmap.sh/projects/nginx-log-analyser](https://roadmap.sh/projects/nginx-log-analyser)
 
 ---
+
+### 4. GitHub User Activity
+
+- [x] **[GitHub User Activity CLI](./go-projects/github-user-activity/)**
+
+  - **Description:** A command-line tool built in Go that fetches and displays recent GitHub activity for any user using the GitHub API. The tool formats and presents various event types like pushes, issues, pull requests, stars, and repository creation in a user-friendly format.
+
+  - **Project Link:** [https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity)
+
+---
