@@ -2,9 +2,9 @@
 
 A collection of projects to practice and showcase DevOps skills, inspired by the [DevOps Project Roadmap](https://roadmap.sh/projects?g=devops).
 
-## Projects Checklist
+## DevOps Projects
 
-Below is a list of projects to tackle. Each project has a description and a link to its location within this repository.
+Below are the shell script and command-line tool projects:
 
 ---
 
@@ -38,12 +38,28 @@ Below is a list of projects to tackle. Each project has a description and a link
 
 ---
 
-### 4. GitHub User Activity
+## Go Projects
 
-- [x] **[GitHub User Activity CLI](./go-projects/github-user-activity/)**
+Below are the Go-based command-line applications:
+
+---
+
+### 1. GitHub User Activity CLI
+
+- [x] **[GitHub User Activity](./go-projects/github-user-activity/)**
 
   - **Description:** A command-line tool built in Go that fetches and displays recent GitHub activity for any user using the GitHub API. The tool formats and presents various event types like pushes, issues, pull requests, stars, and repository creation in a user-friendly format.
 
   - **Project Link:** [https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity)
+
+---
+
+### 2. Task Tracker CLI
+
+- [x] **[Task Tracker](./go-projects/task-tracker/)**
+
+  - **Description:** A simple command-line interface application for tracking and managing tasks. Built with Go, it supports adding, updating, deleting tasks, managing task status (todo, in-progress, done), and persistent JSON storage.
+
+  - **Project Link:** [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 
 ---
