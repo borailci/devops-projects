@@ -1,0 +1,8 @@
+# Ignore the archives directory
+archives/
+
+# Ignore the log file
+log-archive.log
+
+# Ignore sample logs
+sample_logs/
